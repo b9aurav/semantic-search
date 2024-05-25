@@ -2,7 +2,7 @@
 
 1. Clone repo
 ```
-git clone
+git clone https://github.com/b9aurav/semantic-search.git
 ```
 
 2. Update .env file (Rename .env.example to .env)
